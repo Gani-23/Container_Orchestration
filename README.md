@@ -43,4 +43,3 @@ This project is designed to deploy a MERN (MongoDB, Express.js, React.js, Node.j
 - Jenkins Documentation
 
 ```
-Feel free to adapt and extend the configurations based on your specific needs.
